@@ -18,5 +18,5 @@ var objDefaultOptions = {
 };
 
 function Test(){
-  console.log('Test');
+  console.log('Test, avec modif vsc git');
 };
