@@ -10,6 +10,9 @@
 const VERSION = '0.1.0';
 
 var objDefaultOptions = {
-  enabled: true
+  enabled: true,
+  strMLStexte1: 'Texte 1',
+  strMLStexte2: 'Texte 2'
+  
 
 };
